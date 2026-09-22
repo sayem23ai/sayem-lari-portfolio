@@ -12,7 +12,9 @@
 - No environment variables are required. Formspree delivery and canonical site metadata are optional configuration; contact currently opens a mail draft.
 - Browser control was unavailable in this deployment session. The earlier interactive checks below are historical records, not new live-site verification.
 - Dependency audit could not complete because the npm advisory endpoint failed; no clean audit result is claimed.
-- Vercel login and the GitHub repository choice are pending. No public deployment URL has been verified yet.
+- Public GitHub repository: `https://github.com/sayem23ai/sayem-lari-portfolio`, production branch `main`.
+- Vercel project: `sayem9/sayem-lari-portfolio`, connected to the GitHub repository. Root `.`, Vite preset, Node 24.x, build `npm run build`, output `dist`.
+- Initial CLI uploads encountered network errors before creating a deployment. Git-triggered deployment and public URL verification are pending.
 
 ## Earlier project validation (preserved)
 
